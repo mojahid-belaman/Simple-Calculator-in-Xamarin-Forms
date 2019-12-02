@@ -1,0 +1,14 @@
+C:\Users\pci5\Desktop\Xamarin forms\CalculatorIphone\CalculatorIphone\CalculatorIphone\obj\Debug\netstandard2.0\CalculatorIphone.csprojAssemblyReference.cache
+C:\Users\pci5\Desktop\Xamarin forms\CalculatorIphone\CalculatorIphone\CalculatorIphone\bin\Debug\netstandard2.0\CalculatorIphone.deps.json
+C:\Users\pci5\Desktop\Xamarin forms\CalculatorIphone\CalculatorIphone\CalculatorIphone\bin\Debug\netstandard2.0\CalculatorIphone.dll
+C:\Users\pci5\Desktop\Xamarin forms\CalculatorIphone\CalculatorIphone\CalculatorIphone\bin\Debug\netstandard2.0\ref\CalculatorIphone.dll
+C:\Users\pci5\Desktop\Xamarin forms\CalculatorIphone\CalculatorIphone\CalculatorIphone\bin\Debug\netstandard2.0\CalculatorIphone.pdb
+C:\Users\pci5\Desktop\Xamarin forms\CalculatorIphone\CalculatorIphone\CalculatorIphone\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pci5\Desktop\Xamarin forms\CalculatorIphone\CalculatorIphone\CalculatorIphone\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pci5\Desktop\Xamarin forms\CalculatorIphone\CalculatorIphone\CalculatorIphone\obj\Debug\netstandard2.0\CalculatorIphone.AssemblyInfoInputs.cache
+C:\Users\pci5\Desktop\Xamarin forms\CalculatorIphone\CalculatorIphone\CalculatorIphone\obj\Debug\netstandard2.0\CalculatorIphone.AssemblyInfo.cs
+C:\Users\pci5\Desktop\Xamarin forms\CalculatorIphone\CalculatorIphone\CalculatorIphone\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pci5\Desktop\Xamarin forms\CalculatorIphone\CalculatorIphone\CalculatorIphone\obj\Debug\netstandard2.0\CalculatorIphone.dll
+C:\Users\pci5\Desktop\Xamarin forms\CalculatorIphone\CalculatorIphone\CalculatorIphone\obj\Debug\netstandard2.0\ref\CalculatorIphone.dll
+C:\Users\pci5\Desktop\Xamarin forms\CalculatorIphone\CalculatorIphone\CalculatorIphone\obj\Debug\netstandard2.0\CalculatorIphone.pdb
+C:\Users\pci5\Desktop\Xamarin forms\CalculatorIphone\CalculatorIphone\CalculatorIphone\obj\Debug\netstandard2.0\Page1.xaml.g.cs

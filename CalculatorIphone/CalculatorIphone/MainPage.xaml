@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="CalculatorIphone.MainPage">
+
+    <StackLayout BackgroundColor="Black">
+        <Label
+            Text="Enter Number 1 :"
+            TextColor="White"
+            FontSize="30"
+            Margin="15, 0, 0, 0"
+            >
+        </Label>
+        <Entry
+            Placeholder="0"
+            BackgroundColor="White"
+            HorizontalOptions="Center"
+            HorizontalTextAlignment="Center"
+            WidthRequest="350"
+            HeightRequest="70"
+            FontFamily="bold"
+            FontSize="40"
+            Keyboard="Numeric"
+            x:Name="nb1"
+            >
+        </Entry>
+        <Label
+            Text="Enter Number 2 :"
+            TextColor="White"
+            FontSize="30"
+            Margin="15, 10, 10, 0"
+            >
+        </Label>
+        <Entry
+            Placeholder="0"
+            BackgroundColor="White"
+            HorizontalOptions="Center"
+            HorizontalTextAlignment="Center"
+            WidthRequest="350"
+            HeightRequest="70"
+            FontFamily="bold"
+            FontSize="40"
+            Keyboard="Numeric"
+            x:Name="nb2"
+            >
+        </Entry>
+        <Grid Padding="5" Margin="20, 10, 10, 0" ColumnSpacing="5">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Button
+            Text="+"
+            Padding="0"
+            Grid.Row="0"
+            Grid.Column="0"
+            CornerRadius="35"
+            FontAttributes="Bold"
+            FontSize="Title"
+            TextColor="White"
+            BackgroundColor="#FE9E0A"
+            x:Name="btnadd"
+            >
+            </Button>
+            <Button
+            Text="-"
+            Padding="0"
+            Grid.Row="0"
+            Grid.Column="1"
+            CornerRadius="35"
+            FontAttributes="Bold"
+            FontSize="Title"
+            TextColor="White"
+            BackgroundColor="#FE9E0A"
+            x:Name="btnsub"
+            >
+            </Button>
+            <Button
+            Text="*"
+            Padding="0"
+            Grid.Row="0"
+            Grid.Column="2"
+            CornerRadius="35"
+            FontAttributes="Bold"
+            FontSize="Title"
+            TextColor="White"
+            BackgroundColor="#FE9E0A"
+            x:Name="btnmultiple"
+            >
+            </Button>
+            <Button
+            Text="/"
+            Padding="0"
+            Grid.Row="0"
+            Grid.Column="3"
+            CornerRadius="35"
+            FontAttributes="Bold"
+            FontSize="Title"
+            TextColor="White"
+            BackgroundColor="#FE9E0A"
+            x:Name="btndiv"
+            >
+            </Button>
+            <Button
+            Text="%"
+            Padding="0"
+            Grid.Row="0"
+            Grid.Column="4"
+            CornerRadius ="35"
+            FontAttributes="Bold"
+            FontSize="Title"
+            TextColor="White"
+            BackgroundColor="#FE9E0A"
+            x:Name="btnmod"
+            >
+            </Button>
+        </Grid>
+        <Label
+            Text="Resultat :"
+            TextColor="White"
+            FontSize="30"
+            Margin="15, 10, 10, 0"
+            >
+
+        </Label>
+        <Entry
+            Placeholder="0"
+            BackgroundColor="White"
+            HorizontalOptions="Center"
+            HorizontalTextAlignment="Center"
+            WidthRequest="350"
+            HeightRequest="70"
+            FontFamily="bold"
+            FontSize="40"
+            IsReadOnly="True"
+            x:Name="res"
+            >
+        </Entry>
+
+    </StackLayout>
+</ContentPage>
